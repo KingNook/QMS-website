@@ -1,0 +1,21 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{}%
+\contentsline {paragraph}{About me}{1}{}%
+\contentsline {paragraph}{Disclaimers}{1}{}%
+\contentsline {section}{\numberline {2}Overview of Cambridge}{1}{}%
+\contentsline {subsection}{\numberline {2.1}The collegiate system}{1}{}%
+\contentsline {subsection}{\numberline {2.2}Supervisions}{1}{}%
+\contentsline {section}{\numberline {3}Frequently Asked Questions}{1}{}%
+\contentsline {subsection}{\numberline {3.1}Should I apply for maths?}{1}{}%
+\contentsline {subsection}{\numberline {3.2}What makes maths at Cambridge special?}{2}{}%
+\contentsline {subsection}{\numberline {3.3}How do I choose a college? Are there any colleges that are better than others?}{2}{}%
+\contentsline {subsection}{\numberline {3.4}What makes maths at Queens' special?}{3}{}%
+\contentsline {paragraph}{Size}{3}{}%
+\contentsline {paragraph}{Examples classes}{3}{}%
+\contentsline {paragraph}{Gap years}{3}{}%
+\contentsline {paragraph}{College life}{3}{}%
+\contentsline {subsection}{\numberline {3.5}Do they read the personal statement?}{3}{}%
+\contentsline {subsection}{\numberline {3.6}How should I write my personal statement?}{3}{}%
+\contentsline {subsection}{\numberline {3.7}What's the interview like?}{3}{}%
+\contentsline {subsection}{\numberline {3.8}What grades do I need to get in?}{4}{}%
+\contentsline {subsection}{\numberline {3.9}How hard is STEP?}{4}{}%
+\contentsline {subsection}{\numberline {3.10}How can I prepare for STEP?}{4}{}%
